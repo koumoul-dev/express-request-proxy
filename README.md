@@ -1,5 +1,7 @@
 # express-request-proxy
 
+**A temporary fork of https://github.com/4front/express-request-proxy more permissive with cookie passing.**
+
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Build Status][travis-image]][travis-url]
