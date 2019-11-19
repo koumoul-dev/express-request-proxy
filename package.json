@@ -1,6 +1,6 @@
 {
   "name": "@koumoul/express-request-proxy",
-  "version": "2.2.3",
+  "version": "2.3.0",
   "description": "Intelligent http proxy Express middleware",
   "main": "index.js",
   "scripts": {
