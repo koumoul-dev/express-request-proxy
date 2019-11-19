@@ -1,5 +1,5 @@
 {
-  "name": "express-request-proxy",
+  "name": "@koumoul/express-request-proxy",
   "version": "2.2.2",
   "description": "Intelligent http proxy Express middleware",
   "main": "index.js",
